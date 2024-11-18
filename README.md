@@ -27,10 +27,10 @@ Durante estos años he tenido la oportunidad de estudiar muchos aspectos sobre l
 
 Cuento con mucho interes por emprender nuevos proyectos, adentrarme en el mundo laboral y seguir avanzando en mi carrera profesional.
 
-🚀 ## Proyectos Destacados:
-- **[Ocr APP](https://github.com/DavidReinon/azureai_app)**: Breve descripción ("Una aplicación movil que se encarga de detectar texto de una imagen de la galeria o hecha al momento, desarollada con flutter mediante recursos de inteligencia artificial de azure").
-- **[Api Rest Ocr APP](https://github.com/DavidReinon/Flutter_Ocr_Users_API)**: Breve descripción ("Una API REST para gestionar el registro de usuarios en OCR APP, usando C# con entity framework alojando la información una BD SQL en azure").
-- **[DashBoard Musicos SJMA](https://github.com/DavidReinon/Dashboard-Musicos-SJMA)**: Breve descripción ("Un Dashboard Web enfocado en la gestion de musicos de la banda de musica de albal, pudiendo crear una lista personalizada de los musicos que asistirán a cada evento concreto, desarrollado en TypeScript con Next.js y utilizando como backend la plataforma Supabase").
+## 🚀 Proyectos Destacados:
+- **[Ocr APP](https://github.com/DavidReinon/azureai_app)**: Una aplicación movil que se encarga de detectar texto de una imagen de la galeria o hecha al momento, desarollada con flutter mediante recursos de inteligencia artificial de azure.
+- **[Api Rest Ocr APP](https://github.com/DavidReinon/Flutter_Ocr_Users_API)**: Una API REST para gestionar el registro de usuarios en OCR APP, usando C# con entity framework alojando la información una BD SQL en azure.
+- **[DashBoard Musicos SJMA](https://github.com/DavidReinon/Dashboard-Musicos-SJMA)**: Un Dashboard Web enfocado en la gestion de musicos de la banda de musica de albal, pudiendo crear una lista personalizada de los musicos que asistirán a cada evento concreto, desarrollado en TypeScript con Next.js y utilizando como backend la plataforma Supabase.
 
 
 
